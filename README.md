@@ -21,9 +21,9 @@ My expertise spans the full machine learning pipeline—from training and fine-t
 
 | Domain | Technologies |
 | :--- | :--- |
-| **Languages** | C++, Python, Bash, SQL, Go (Working Knowledge) |
-| **AI / Machine Learning** | PyTorch, VLLMs, YOLOv11, RAG Pipelines, LoRA Fine-tuning |
-| **Systems & Edge** | Linux Systems, NVIDIA Jetson, CUDA, gRPC, Docker, Consul |
+| **Languages** | C++, Python, Bash, SQL) |
+| **AI / Machine Learning** | PyTorch, VLLMs, LLMs, RAG Pipelines, Reinforcement Learning , Fine-tuning |
+| **Systems & Edge** | Linux Systems, NVIDIA Jetson, CUDA, gRPC, Docker |
 | **Architecture** | Distributed Systems, Microservices, POSIX-compliant Shells, P2P Networks |
 
 ---
