@@ -1,4 +1,4 @@
-# Aryan Prajapati | M.Tech CSIS @ IIIT Hyderabad
+# Aryan Prajapati | M.Tech  @ IIIT Hyderabad
 
 <div align="center">
   <img src="https://img.shields.io/badge/Focus-Systems%20%26%20AI-blue?style=for-the-badge" />
