@@ -47,13 +47,7 @@ My expertise spans the full machine learning pipeline—from training and fine-t
 * Implemented gRPC microservices for high-throughput, low-latency transaction handling.
 
 
----
 
-### 📈 Metrics & Activity
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AryaNP02&show_icons=true&theme=nord&hide_border=true&title_color=2196F3" height="150" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryaNP02&layout=compact&theme=nord&hide_border=true&title_color=2196F3" height="150" alt="Langs" />
-</div>
 
 ---
 
